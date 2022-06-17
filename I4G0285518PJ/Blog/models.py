@@ -17,7 +17,6 @@ class Post(models.Model):
 
 
 
-
 # Title : A string of maxlength 200, use Django’s models.CharField
 
  
